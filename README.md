@@ -12,7 +12,7 @@ A responsive university/e-learning landing page built as a front-end UI practice
 HTML, CSS, JavaScript, Font Awesome
 
 ## Live Demo
-[View on GitHub Pages]([(https://shrutisalunke.github.io/University-Website/WebsiteDesign.html)]) <!-- add your actual link -->
+[View Live Site](https://shrutisalunke.github.io/University-Website/WebsiteDesign.html)
 
 ## Usage
 1. Clone the repo
